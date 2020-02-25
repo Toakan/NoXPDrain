@@ -1,8 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Xen's XP Fixer</name>
-	<author>Xen</author>
-	<url></url>
-	<targetVersion>0.19.0</targetVersion>
-	<description>No more XP drain!.</description>
+	<name>No XP Drain</name>
+	<author>Tad</author>
+	<url>https://github.com/Toakan/NoXPDrain</url>
+	<supportedVersions>
+        <li>1.1</li>
+    </supportedVersions>
+	<description>No XP Drain for Pawns in Rimworld.</description>
+	<packageId>NoXPDrain.Common.Core</packageId>
 </ModMetaData>

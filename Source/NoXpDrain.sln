@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XenXP", "XenXP\XenXP.csproj", "{D06D87DC-A3AA-444F-9FB6-528283F4590F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoXpDrain", "XenXP\NoXpDrain.csproj", "{D06D87DC-A3AA-444F-9FB6-528283F4590F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34B32CD2-66D3-43C4-BCD6-BCD8B6DF22FB}
 	EndGlobalSection
 EndGlobal

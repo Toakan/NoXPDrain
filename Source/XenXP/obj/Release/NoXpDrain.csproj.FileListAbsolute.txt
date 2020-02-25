@@ -1,0 +1,9 @@
+Z:\Git\XenXP\Source\XenXP\Assemblies\NoXpDrain.dll
+Z:\Git\XenXP\Source\XenXP\Assemblies\NoXpDrain.pdb
+Z:\Git\XenXP\Source\XenXP\Assemblies\0Harmony.dll
+Z:\Git\XenXP\Source\XenXP\Assemblies\0Harmony.xml
+Z:\Git\XenXP\Source\XenXP\obj\Release\NoXpDrain.csproj.CoreCompileInputs.cache
+Z:\Git\XenXP\Source\XenXP\obj\Release\NoXpDrain.csproj.CopyComplete
+Z:\Git\XenXP\Source\XenXP\obj\Release\NoXpDrain.dll
+Z:\Git\XenXP\Source\XenXP\obj\Release\NoXpDrain.pdb
+Z:\Git\XenXP\Source\XenXP\obj\Release\NoXpDrain.csprojAssemblyReference.cache

@@ -25,3 +25,16 @@ D:\TJXDocs\Documents\Visual Studio 2017\Projects\XenXP\XenXP\obj\Release\XenXP.c
 D:\TJXDocs\Documents\Visual Studio 2017\Projects\XenXP\XenXP\obj\Release\XenXP.csproj.CopyComplete
 D:\TJXDocs\Documents\Visual Studio 2017\Projects\XenXP\XenXP\obj\Release\XenXP.dll
 D:\TJXDocs\Documents\Visual Studio 2017\Projects\XenXP\XenXP\obj\Release\XenXP.pdb
+Z:\Git\XenXP\Source\XenXP\bin\Release\TadXP.dll
+Z:\Git\XenXP\Source\XenXP\bin\Release\TadXP.pdb
+Z:\Git\XenXP\Source\XenXP\bin\Release\0Harmony.dll
+Z:\Git\XenXP\Source\XenXP\bin\Release\0Harmony.xml
+Z:\Git\XenXP\Source\XenXP\obj\Release\XenXP.csprojAssemblyReference.cache
+Z:\Git\XenXP\Source\XenXP\obj\Release\XenXP.csproj.CoreCompileInputs.cache
+Z:\Git\XenXP\Source\XenXP\obj\Release\XenXP.csproj.CopyComplete
+Z:\Git\XenXP\Source\XenXP\obj\Release\TadXP.dll
+Z:\Git\XenXP\Source\XenXP\obj\Release\TadXP.pdb
+Z:\Git\XenXP\Source\XenXP\Assemblies\TadXP.dll
+Z:\Git\XenXP\Source\XenXP\Assemblies\TadXP.pdb
+Z:\Git\XenXP\Source\XenXP\Assemblies\0Harmony.dll
+Z:\Git\XenXP\Source\XenXP\Assemblies\0Harmony.xml
