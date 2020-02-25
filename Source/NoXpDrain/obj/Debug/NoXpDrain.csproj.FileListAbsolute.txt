@@ -1,0 +1,7 @@
+Z:\Git\NoXpDrain\Assemblies\NoXpDrain.dll
+Z:\Git\NoXpDrain\Assemblies\NoXpDrain.pdb
+Z:\Git\NoXpDrain\Source\NoXpDrain\obj\Debug\NoXpDrain.csprojAssemblyReference.cache
+Z:\Git\NoXpDrain\Source\NoXpDrain\obj\Debug\NoXpDrain.csproj.CoreCompileInputs.cache
+Z:\Git\NoXpDrain\Source\NoXpDrain\obj\Debug\NoXpDrain.csproj.CopyComplete
+Z:\Git\NoXpDrain\Source\NoXpDrain\obj\Debug\NoXpDrain.dll
+Z:\Git\NoXpDrain\Source\NoXpDrain\obj\Debug\NoXpDrain.pdb

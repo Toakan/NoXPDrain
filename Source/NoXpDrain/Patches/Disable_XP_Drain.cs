@@ -3,14 +3,14 @@ using Verse;
 using HarmonyLib;
 using System.Reflection;
 
-namespace NoXpDrain
+namespace NoXpDrain.Patches
 {
     [StaticConstructorOnStartup]
     static class HarmonyPatches
     {
         static HarmonyPatches()
         {
-            var instance = new Harmony("rimworld.tad.exp");
+            var instance = new Harmony("com.noxpdrain.patches");
             instance.PatchAll(Assembly.GetExecutingAssembly());
         }
 

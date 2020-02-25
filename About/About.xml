@@ -6,6 +6,14 @@
 	<supportedVersions>
         <li>1.1</li>
     </supportedVersions>
-	<description>No XP Drain for Pawns in Rimworld.</description>
+	<description xml:whitespace="preserve">Annoyed at your Pawns growing useless over time?
+
+Bored of having to level them up repeatedly?
+
+Well this mod is for you! No longer will you have to watch your hard earned XP slowly dwindle away as harsh winter ravages the landscapes and prevents you growing crops, or prevents your keen hunters from hunting those deadly Thrumbros you soo richly deserve.
+
+Now you can level them up and know that they will stay ready for anything you throw them at!.
+
+I do not accept ownership over dead Pawns.</description>
 	<packageId>NoXPDrain.Common.Core</packageId>
 </ModMetaData>
